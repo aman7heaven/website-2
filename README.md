@@ -25,7 +25,7 @@ Contributions welcome.
 
 # Troubleshooting with Hugo
 
-If you see the error:
+If you see the error then:
 
 > Failed to load translations in file "en.toml": unsupported file extension .toml
 
